@@ -1,2 +1,7 @@
 # Hello-World
-Just learning
+
+Hi everybody 
+
+I am learning how this work!
+
+
