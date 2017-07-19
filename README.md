@@ -2,6 +2,6 @@
 
 Hi everybody 
 
-I am learning how this work!
+I am learning how this works!
 
 
